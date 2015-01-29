@@ -1,6 +1,6 @@
 {
   "name": "governor-log-bunyan",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Provides logging for a governor agent",
   "main": "index.js",
   "scripts": {
